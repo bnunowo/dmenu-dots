@@ -2,6 +2,7 @@ dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+MAKE SURE TO INSTALL CHERRY https://github.com/turquoise-hexagon/cherry
 
 Requirements
 ------------
